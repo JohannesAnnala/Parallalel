@@ -1,4 +1,4 @@
-# Parallalel
+# Parallel
 Parallel programs that use MPI C/C++
 
 Nbody.cpp does an N-body simulation and divides the task among multiple processes using MPI. 
